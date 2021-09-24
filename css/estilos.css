@@ -1,0 +1,32 @@
+.bd-placeholder-img {
+    font-size: 1.125rem;
+    text-anchor: middle;
+    -webkit-user-select: none;
+    -moz-user-select: none;
+    user-select: none;
+  }
+
+  @media (min-width: 768px) {
+    .bd-placeholder-img-lg {
+      font-size: 3.5rem;
+    }
+  }
+  header {
+      background-color: rgb(36, 36, 36) !important;
+      color: #fff;
+  }
+.row {
+  margin-top: 40px !important;
+}
+.icons {
+  margin-top: 5px;
+}
+.card-text {
+  font-family: 'Raleway', sans-serif;
+}
+.btn-group {
+  align-items: center;
+}
+.p-3 {
+  background: crimson;
+}
